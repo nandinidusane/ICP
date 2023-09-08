@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ICP/static/css/main.23fa485c.css",
+    "main.js": "/ICP/static/js/main.b6321f14.js",
+    "static/js/787.ce3eb496.chunk.js": "/ICP/static/js/787.ce3eb496.chunk.js",
+    "index.html": "/ICP/index.html",
+    "main.23fa485c.css.map": "/ICP/static/css/main.23fa485c.css.map",
+    "main.b6321f14.js.map": "/ICP/static/js/main.b6321f14.js.map",
+    "787.ce3eb496.chunk.js.map": "/ICP/static/js/787.ce3eb496.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23fa485c.css",
+    "static/js/main.b6321f14.js"
+  ]
+}
